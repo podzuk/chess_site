@@ -1,0 +1,553 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #484330;
+}
+
+
+
+.main{
+    width:  45vw;
+    height:  44vw;
+    background-image: url(img/tsveta-mebeli1.png);
+    border: 5px solid #9e8d61;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.abc{
+font-size: 2.9282576866764276vw;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+list-style-type: none;
+margin-top: 0;
+margin-left: 6vw;
+}
+
+li{
+    display: inline-block;
+    width:  4.1vw;
+    color: #cbba8f;
+}
+
+.col_left{
+padding-left: 0;
+padding-top: 0;
+text-align: center;
+}
+
+.col1{
+    display: block;
+    height: 4.4vw;
+    font-size: 30px;
+
+  
+}
+
+.col_right{
+    position: absolute;
+    right: -2vw;
+    bottom: 1.7vw;
+}
+
+.col2{
+    display: block;
+    height: 4.4vw;
+    font-size: 30px;
+}
+.a1{
+    position: absolute;
+    top: 0;
+    left: 4.2vw;
+}
+
+.h1{
+    position: absolute;
+    top: 0;
+    right: 5.124450951683748vw;
+    width: 0.7vw;
+}
+
+.abc1{
+font-size: 2.9282576866764276vw;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+list-style-type: none;
+margin-left: 6.588579795021962vw;   
+margin-top: -1.79vw;
+}
+
+.a2{
+    position: absolute;
+    bottom: 0;
+    left: 4.2vw;
+}
+
+.h2{
+    position: absolute;
+    bottom: 0;
+    right: 5.124450951683748vw;
+    width: 0.7vw;
+}
+
+
+.board{
+    width: 38vw;
+    height: 36vw;
+    background-color: #cbba8f;
+    border: 0.6vw solid #3b372c;
+    border-bottom: 0.7vw solid #3b372c;
+    border-top: 0.7vw solid #3b372c;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+
+img{
+    width: 2.5vw;
+    height: 3.5vw;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+
+.c1{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.c2{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 0;
+    left: 9.5vw;
+}
+
+.c3{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 0;
+    left: 19vw;
+}
+
+.c4{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 0;
+    left: 28.5vw;
+}
+
+.c5{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 4.75vw;
+}
+
+.c6{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 14.25vw;
+}
+
+.c7{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 23.75vw;
+}
+
+.c8{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 33.25vw;
+}
+
+
+/*//////////////////////////////////////////////////////////////////*/
+
+
+.c9{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 9vw;
+    left: 0;
+}
+
+.c10{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 9vw;
+    left: 9.5vw;
+}
+
+.c11{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 9vw;
+    left: 19vw;
+}
+
+.c12{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 9vw;
+    left: 28.5vw;
+}
+
+.c13{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 13.5vw;
+    left: 4.75vw;
+}
+
+.c14{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 13.5vw;
+    left: 14.25vw;
+}
+
+.c15{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 13.5vw;
+    left: 23.75vw;
+}
+
+.c16{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 13.5vw;
+    left: 33.25vw;
+}
+
+.c17{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 18vw;
+    left: 0;
+}
+
+.c18{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 18vw;
+    left: 9.5vw;
+}
+
+.c19{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 18vw;
+    left: 19vw;
+}
+
+.c20{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 18vw;
+    left: 28.5vw;
+}
+
+.c21{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 22.5vw;
+    left: 4.75vw;
+}
+
+.c22{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 22.5vw;
+    left: 14.25vw;
+}
+
+.c23{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 22.5vw;
+    left: 23.75vw;
+}
+
+.c24{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    bottom: 22.5vw;
+    left: 33.25vw;
+}
+
+
+/*//////////////////////////////////////////////////////////////////*/
+
+
+.c25{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 4.5vw;
+    left: 0;
+}
+
+.c26{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 4.5vw;
+    left: 9.5vw;
+}
+
+.c27{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 4.5vw;
+    left: 19vw;
+}
+
+.c28{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 4.5vw;
+    left: 28.5vw;
+}
+
+.c29{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 0;
+    left: 4.75vw;
+}
+
+.c30{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 0;
+    left: 14.25vw;
+}
+
+.c31{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 0;
+    left: 23.75vw;
+}
+
+.c32{
+    width: 4.75vw;
+    height: 4.5vw;
+    background-color: #3b372c;
+    position: absolute;
+    top: 0;
+    left: 33.25vw;
+}
+
+/*//////////////////////////////////////////////////////////////////*/
+
+.b1{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.b2{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 0;
+    left: 9.5vw;
+}
+
+.b3{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 0;
+    left: 19vw;
+}
+
+.b4{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 0;
+    left: 28.5vw;
+}
+
+.b5{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 4.5vw;
+    left: 4.75vw;
+}
+
+.b6{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 4.5vw;
+    left: 14.25vw;
+}
+
+.b7{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 4.5vw;
+    left: 23.75vw;
+}
+
+.b8{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    top: 4.5vw;
+    left: 33.25vw;
+}
+
+.d1{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 0;
+    left: 4.75vw;
+}
+
+.d2{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 0;
+    left: 14.25vw;
+}
+
+.d3{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 0;
+    left: 23.75vw;
+}
+
+.d4{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 0;
+    left: 33.25vw;
+}
+
+.d5{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 0;
+}
+
+.d6{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 9.5vw;
+}
+
+.d7{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 19vw;
+}
+
+.d8{
+    width: 4.75vw;
+    height: 4.5vw;
+    position: absolute;
+    bottom: 4.5vw;
+    left: 28.5vw;
+}
